@@ -1,0 +1,21 @@
+D:\Temps\Face Recognition Software\Face Recognition\Face Recognition\bin\x64\Debug\Face Recognition.exe.config
+D:\Temps\Face Recognition Software\Face Recognition\Face Recognition\bin\x64\Debug\Face Recognition.exe
+D:\Temps\Face Recognition Software\Face Recognition\Face Recognition\bin\x64\Debug\Face Recognition.pdb
+D:\Temps\Face Recognition Software\Face Recognition\Face Recognition\bin\x64\Debug\Face Recognition.xml
+D:\Temps\Face Recognition Software\Face Recognition\Face Recognition\bin\x64\Debug\Emgu.CV.dll
+D:\Temps\Face Recognition Software\Face Recognition\Face Recognition\bin\x64\Debug\Emgu.CV.GPU.dll
+D:\Temps\Face Recognition Software\Face Recognition\Face Recognition\bin\x64\Debug\Emgu.CV.ML.dll
+D:\Temps\Face Recognition Software\Face Recognition\Face Recognition\bin\x64\Debug\Emgu.CV.UI.dll
+D:\Temps\Face Recognition Software\Face Recognition\Face Recognition\bin\x64\Debug\Emgu.Util.dll
+D:\Temps\Face Recognition Software\Face Recognition\Face Recognition\bin\x64\Debug\Emgu.CV.xml
+D:\Temps\Face Recognition Software\Face Recognition\Face Recognition\bin\x64\Debug\Emgu.CV.UI.xml
+D:\Temps\Face Recognition Software\Face Recognition\Face Recognition\bin\x64\Debug\Emgu.Util.xml
+D:\Temps\Face Recognition Software\Face Recognition\Face Recognition\obj\x64\Debug\Face Recognition.vbproj.AssemblyReference.cache
+D:\Temps\Face Recognition Software\Face Recognition\Face Recognition\obj\x64\Debug\Face_Recognition.Form1.resources
+D:\Temps\Face Recognition Software\Face Recognition\Face Recognition\obj\x64\Debug\Face_Recognition.Resources.resources
+D:\Temps\Face Recognition Software\Face Recognition\Face Recognition\obj\x64\Debug\Face Recognition.vbproj.GenerateResource.cache
+D:\Temps\Face Recognition Software\Face Recognition\Face Recognition\obj\x64\Debug\Face Recognition.vbproj.CoreCompileInputs.cache
+D:\Temps\Face Recognition Software\Face Recognition\Face Recognition\obj\x64\Debug\Face Recognition.vbproj.CopyComplete
+D:\Temps\Face Recognition Software\Face Recognition\Face Recognition\obj\x64\Debug\Face Recognition.exe
+D:\Temps\Face Recognition Software\Face Recognition\Face Recognition\obj\x64\Debug\Face Recognition.xml
+D:\Temps\Face Recognition Software\Face Recognition\Face Recognition\obj\x64\Debug\Face Recognition.pdb

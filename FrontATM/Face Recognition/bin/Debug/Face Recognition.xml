@@ -1,0 +1,219 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Face Recognition
+</name>
+</assembly>
+<members>
+<member name="T:Face_Recognition.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Face_Recognition.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Face_Recognition.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:Face_Recognition.Form1.EigenObjectRecognizer">
+ <summary>
+ An object recognizer using PCA (Principle Components Analysis)
+ </summary>
+</member>
+<member name="P:Face_Recognition.Form1.EigenObjectRecognizer.EigenImages">
+ <summary>
+ Get the eigen vectors that form the eigen space
+ </summary>
+ <remarks>The set method is primary used for deserialization, do not attemps to set it unless you know what you are doing</remarks>
+</member>
+<member name="P:Face_Recognition.Form1.EigenObjectRecognizer.Labels">
+ <summary>
+ Get or set the labels for the corresponding training image
+ </summary>
+</member>
+<member name="P:Face_Recognition.Form1.EigenObjectRecognizer.EigenDistanceThreshold">
+ <summary>
+ Get or set the eigen distance threshold.
+ The smaller the number, the more likely an examined image will be treated as unrecognized object. 
+ Set it to a huge number (e.g. 5000) and the recognizer will always treated the examined image as one of the known object. 
+ </summary>
+</member>
+<member name="P:Face_Recognition.Form1.EigenObjectRecognizer.AverageImage">
+ <summary>
+ Get the average Image. 
+ </summary>
+ <remarks>The set method is primary used for deserialization, do not attemps to set it unless you know what you are doing</remarks>
+</member>
+<member name="P:Face_Recognition.Form1.EigenObjectRecognizer.EigenValues">
+ <summary>
+ Get the eigen values of each of the training image
+ </summary>
+ <remarks>The set method is primary used for deserialization, do not attemps to set it unless you know what you are doing</remarks>
+</member>
+<member name="M:Face_Recognition.Form1.EigenObjectRecognizer.#ctor(Emgu.CV.Image{Emgu.CV.Structure.Gray,System.Byte}[],Emgu.CV.Structure.MCvTermCriteria@)">
+ <summary>
+ Create an object recognizer using the specific tranning data and parameters, it will always return the most similar object
+ </summary>
+ <param name="images">The images used for training, each of them should be the same size. It's recommended the images are histogram normalized</param>
+ <param name="termCrit">The criteria for recognizer training</param>
+</member>
+<member name="M:Face_Recognition.Form1.EigenObjectRecognizer.#ctor(Emgu.CV.Image{Emgu.CV.Structure.Gray,System.Byte}[],System.String[],Emgu.CV.Structure.MCvTermCriteria@)">
+ <summary>
+ Create an object recognizer using the specific tranning data and parameters, it will always return the most similar object
+ </summary>
+ <param name="images">The images used for training, each of them should be the same size. It's recommended the images are histogram normalized</param>
+ <param name="labels">The labels corresponding to the images</param>
+ <param name="termCrit">The criteria for recognizer training</param>
+</member>
+<member name="M:Face_Recognition.Form1.EigenObjectRecognizer.#ctor(Emgu.CV.Image{Emgu.CV.Structure.Gray,System.Byte}[],System.String[],System.Double,Emgu.CV.Structure.MCvTermCriteria@)">
+ <summary>
+ Create an object recognizer using the specific tranning data and parameters
+ </summary>
+ <param name="images">The images used for training, each of them should be the same size. It's recommended the images are histogram normalized</param>
+ <param name="labels">The labels corresponding to the images</param>
+ <param name="eigenDistanceThreshold">
+ The eigen distance threshold, (0, ~1000].
+ The smaller the number, the more likely an examined image will be treated as unrecognized object. 
+ If the threshold is &lt; 0, the recognizer will always treated the examined image as one of the known object. 
+ </param>
+ <param name="termCrit">The criteria for recognizer training</param>
+</member>
+<member name="M:Face_Recognition.Form1.EigenObjectRecognizer.CalcEigenObjects(Emgu.CV.Image{Emgu.CV.Structure.Gray,System.Byte}[],Emgu.CV.Structure.MCvTermCriteria@,Emgu.CV.Image{Emgu.CV.Structure.Gray,System.Single}[]@,Emgu.CV.Image{Emgu.CV.Structure.Gray,System.Single}@)">
+ <summary>
+ Caculate the eigen images for the specific traning image
+ </summary>
+ <param name="trainingImages">The images used for training </param>
+ <param name="termCrit">The criteria for tranning</param>
+ <param name="eigenImages">The resulting eigen images</param>
+ <param name="avg">The resulting average image</param>
+</member>
+<member name="M:Face_Recognition.Form1.EigenObjectRecognizer.EigenDecomposite(Emgu.CV.Image{Emgu.CV.Structure.Gray,System.Byte},Emgu.CV.Image{Emgu.CV.Structure.Gray,System.Single}[],Emgu.CV.Image{Emgu.CV.Structure.Gray,System.Single})">
+ <summary>
+ Decompose the image as eigen values, using the specific eigen vectors
+ </summary>
+ <param name="src">The image to be decomposed</param>
+ <param name="eigenImages">The eigen images</param>
+ <param name="avg">The average images</param>
+ <returns>Eigen values of the decomposed image</returns>
+</member>
+<member name="M:Face_Recognition.Form1.EigenObjectRecognizer.EigenProjection(System.Single[])">
+ <summary>
+ Given the eigen value, reconstruct the projected image
+ </summary>
+ <param name="eigenValue">The eigen values</param>
+ <returns>The projected image</returns>
+</member>
+<member name="M:Face_Recognition.Form1.EigenObjectRecognizer.GetEigenDistances(Emgu.CV.Image{Emgu.CV.Structure.Gray,System.Byte})">
+ <summary>
+ Get the Euclidean eigen-distance between <paramref name="image"/> and every other image in the database
+ </summary>
+ <param name="image">The image to be compared from the training images</param>
+ <returns>An array of eigen distance from every image in the training images</returns>
+</member>
+<member name="M:Face_Recognition.Form1.EigenObjectRecognizer.FindMostSimilarObject(Emgu.CV.Image{Emgu.CV.Structure.Gray,System.Byte},System.Int32@,System.Single@,System.String@)">
+ <summary>
+ Given the <paramref name="image"/> to be examined, find in the database the most similar object, return the index and the eigen distance
+ </summary>
+ <param name="image">The image to be searched from the database</param>
+ <param name="index">The index of the most similar object</param>
+ <param name="eigenDistance">The eigen distance of the most similar object</param>
+ <param name="label">The label of the specific image</param>
+</member>
+<member name="M:Face_Recognition.Form1.EigenObjectRecognizer.Recognize(Emgu.CV.Image{Emgu.CV.Structure.Gray,System.Byte})">
+ <summary>
+ Try to recognize the image and return its label
+ </summary>
+ <param name="image">The image to be recognized</param>
+ <returns>
+ String.Empty, if not recognized;
+ Label of the corresponding image, otherwise
+ </returns>
+</member>
+<member name="P:Face_Recognition.FrontATM_form_main1.Reset">
+ <summary>
+ Reset the UI causing the user to reselect a reader.
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:Face_Recognition.FrontATM_form_main1.OpenReader">
+ <summary>
+ Open a device and check result for errors.
+ </summary>
+ <returns>Returns true if successful; false if unsuccessful</returns>
+</member>
+<member name="M:Face_Recognition.FrontATM_form_main1.StartCaptureAsync(DPUruNet.Reader.CaptureCallback)">
+ <summary>
+ Hookup capture handler and start capture.
+ </summary>
+ <param name="OnCaptured">Delegate to hookup as handler of the On_Captured event</param>
+ <returns>Returns true if successful; false if unsuccessful</returns>
+</member>
+<member name="M:Face_Recognition.FrontATM_form_main1.CancelCaptureAndCloseReader(DPUruNet.Reader.CaptureCallback)">
+ <summary>
+ Cancel the capture and then close the reader.
+ </summary>
+ <param name="OnCaptured">Delegate to unhook as handler of the On_Captured event </param>
+</member>
+<member name="M:Face_Recognition.FrontATM_form_main1.GetStatus">
+ <summary>
+ Check the device status before starting capture.
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:Face_Recognition.FrontATM_form_main1.CheckCaptureResult(DPUruNet.CaptureResult)">
+ <summary>
+ Check quality of the resulting capture.
+ </summary>
+</member>
+<member name="M:Face_Recognition.FrontATM_form_main1.CaptureFingerAsync">
+ <summary>
+ Function to capture a finger. Always get status first and calibrate or wait if necessary.  Always check status and capture errors.
+ </summary>
+ <param name="fid"></param>
+ <returns></returns>
+</member>
+<member name="M:Face_Recognition.FrontATM_form_main1.CreateBitmap(System.Byte[],System.Int32,System.Int32)">
+ <summary>
+ Create a bitmap from raw data in row/column format.
+ </summary>
+ <param name="bytes"></param>
+ <param name="width"></param>
+ <param name="height"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="F:Face_Recognition.FrontATM_registrationForm1._sender">
+ <summary>
+ Holds the main form with many functions common to all of SDK actions.
+ </summary>
+</member>
+<member name="M:Face_Recognition.FrontATM_registrationForm1.Verification_Load(System.Object,System.EventArgs)">
+ <summary>
+ Initialize the form.
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+ <remarks></remarks>
+</member>
+<member name="M:Face_Recognition.FrontATM_registrationForm1.OnCaptured(DPUruNet.CaptureResult)">
+ <summary>
+ Handler for when a fingerprint is captured.
+ </summary>
+ <param name="captureResult">contains info and data on the fingerprint capture</param>
+</member>
+<member name="M:Face_Recognition.FrontATM_registrationForm1.Verification_Closed(System.Object,System.EventArgs)">
+ <summary>
+ Close window.
+ </summary>
+</member>
+</members>
+</doc>

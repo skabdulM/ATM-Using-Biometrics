@@ -1,0 +1,191 @@
+C:\Users\nicol\AppData\Local\Temporary Projects\Face Recognition\bin\Debug\Face Recognition.exe
+C:\Users\nicol\AppData\Local\Temporary Projects\Face Recognition\bin\Debug\Face Recognition.pdb
+C:\Users\nicol\AppData\Local\Temporary Projects\Face Recognition\bin\Debug\Face Recognition.xml
+C:\Users\nicol\AppData\Local\Temporary Projects\Face Recognition\obj\x86\Debug\Face_Recognition.Form1.resources
+C:\Users\nicol\AppData\Local\Temporary Projects\Face Recognition\obj\x86\Debug\Face_Recognition.Resources.resources
+C:\Users\nicol\AppData\Local\Temporary Projects\Face Recognition\obj\x86\Debug\Face Recognition.vbproj.GenerateResource.Cache
+C:\Users\nicol\AppData\Local\Temporary Projects\Face Recognition\obj\x86\Debug\Face Recognition.exe
+C:\Users\nicol\AppData\Local\Temporary Projects\Face Recognition\obj\x86\Debug\Face Recognition.xml
+C:\Users\nicol\AppData\Local\Temporary Projects\Face Recognition\obj\x86\Debug\Face Recognition.pdb
+C:\Users\nicol\Desktop\Face Recognition Software\Face Recognition\Face Recognition\obj\x86\Debug\Face Recognition.exe
+C:\Users\nicol\Desktop\Face Recognition Software\Face Recognition\Face Recognition\obj\x86\Debug\Face Recognition.xml
+C:\Users\nicol\Desktop\Face Recognition Software\Face Recognition\Face Recognition\obj\x86\Debug\Face Recognition.pdb
+C:\Users\nicol\Desktop\Face Recognition Software\Face Recognition\Face Recognition\bin\Debug\Face Recognition.exe
+C:\Users\nicol\Desktop\Face Recognition Software\Face Recognition\Face Recognition\bin\Debug\Face Recognition.pdb
+C:\Users\nicol\Desktop\Face Recognition Software\Face Recognition\Face Recognition\bin\Debug\Face Recognition.xml
+C:\Users\nicol\Desktop\Face Recognition Software\Face Recognition\Face Recognition\obj\x86\Debug\Face_Recognition.Form1.resources
+C:\Users\nicol\Desktop\Face Recognition Software\Face Recognition\Face Recognition\obj\x86\Debug\Face_Recognition.Resources.resources
+C:\Users\nicol\Desktop\Face Recognition Software\Face Recognition\Face Recognition\obj\x86\Debug\Face Recognition.vbproj.GenerateResource.Cache
+C:\Users\nicol\Desktop\Face Recognition Software\Face Recognition\Face Recognition\obj\x86\Debug\Face Recognition.vbprojResolveAssemblyReference.cache
+C:\Users\nicol\Desktop\Face Recognition Software\Face Recognition\Face Recognition\bin\Debug\Emgu.CV.xml
+C:\Users\nicol\Desktop\Face Recognition Software\Face Recognition\Face Recognition\bin\Debug\Emgu.CV.UI.xml
+C:\Users\nicol\Desktop\Face Recognition Software\Face Recognition\Face Recognition\bin\Debug\Emgu.Util.xml
+D:\Temps\Face Recognition Software\Face Recognition\Face Recognition\bin\Debug\Face Recognition.exe.config
+D:\Temps\Face Recognition Software\Face Recognition\Face Recognition\bin\Debug\Face Recognition.exe
+D:\Temps\Face Recognition Software\Face Recognition\Face Recognition\bin\Debug\Face Recognition.pdb
+D:\Temps\Face Recognition Software\Face Recognition\Face Recognition\bin\Debug\Face Recognition.xml
+D:\Temps\Face Recognition Software\Face Recognition\Face Recognition\bin\Debug\Emgu.CV.xml
+D:\Temps\Face Recognition Software\Face Recognition\Face Recognition\bin\Debug\Emgu.CV.UI.xml
+D:\Temps\Face Recognition Software\Face Recognition\Face Recognition\bin\Debug\Emgu.Util.xml
+D:\Temps\Face Recognition Software\Face Recognition\Face Recognition\obj\x86\Debug\Face Recognition.vbproj.AssemblyReference.cache
+D:\Temps\Face Recognition Software\Face Recognition\Face Recognition\obj\x86\Debug\Face_Recognition.Form1.resources
+D:\Temps\Face Recognition Software\Face Recognition\Face Recognition\obj\x86\Debug\Face_Recognition.Resources.resources
+D:\Temps\Face Recognition Software\Face Recognition\Face Recognition\obj\x86\Debug\Face Recognition.vbproj.GenerateResource.cache
+D:\Temps\Face Recognition Software\Face Recognition\Face Recognition\obj\x86\Debug\Face Recognition.vbproj.CoreCompileInputs.cache
+D:\Temps\Face Recognition Software\Face Recognition\Face Recognition\obj\x86\Debug\Face Recognition.vbproj.CopyComplete
+D:\Temps\Face Recognition Software\Face Recognition\Face Recognition\obj\x86\Debug\Face Recognition.exe
+D:\Temps\Face Recognition Software\Face Recognition\Face Recognition\obj\x86\Debug\Face Recognition.xml
+D:\Temps\Face Recognition Software\Face Recognition\Face Recognition\obj\x86\Debug\Face Recognition.pdb
+D:\Temps\project\Face Recognition Software -temp\Face Recognition\Face Recognition\obj\x86\Debug\Face Recognition.vbproj.AssemblyReference.cache
+D:\Temps\project\Face Recognition Software -temp\Face Recognition\Face Recognition\obj\x86\Debug\Face_Recognition.FingerBasedATM__form_main1.resources
+D:\Temps\project\Face Recognition Software -temp\Face Recognition\Face Recognition\obj\x86\Debug\Face_Recognition.FingerBasedATM_registration1.resources
+D:\Temps\project\Face Recognition Software -temp\Face Recognition\Face Recognition\obj\x86\Debug\Face_Recognition.FingerBasedATM_selectreader1.resources
+D:\Temps\project\Face Recognition Software -temp\Face Recognition\Face Recognition\obj\x86\Debug\Face_Recognition.Form1.resources
+D:\Temps\project\Face Recognition Software -temp\Face Recognition\Face Recognition\obj\x86\Debug\Face_Recognition.Resources.resources
+D:\Temps\project\Face Recognition Software -temp\Face Recognition\Face Recognition\obj\x86\Debug\Face Recognition.vbproj.GenerateResource.cache
+D:\Temps\project\Face Recognition Software -temp\Face Recognition\Face Recognition\obj\x86\Debug\Face Recognition.vbproj.CoreCompileInputs.cache
+D:\Temps\project\Face Recognition Software -temp\Face Recognition\Face Recognition\obj\x86\Debug\Face Recognition.exe
+D:\Temps\project\Face Recognition Software -temp\Face Recognition\Face Recognition\obj\x86\Debug\Face Recognition.xml
+D:\Temps\project\Face Recognition Software -temp\Face Recognition\Face Recognition\obj\x86\Debug\Face Recognition.pdb
+D:\Temps\project\Face Recognition Software -temp\Face Recognition\Face Recognition\bin\Debug\Face Recognition.exe.config
+D:\Temps\project\Face Recognition Software -temp\Face Recognition\Face Recognition\bin\Debug\Face Recognition.exe
+D:\Temps\project\Face Recognition Software -temp\Face Recognition\Face Recognition\bin\Debug\Face Recognition.pdb
+D:\Temps\project\Face Recognition Software -temp\Face Recognition\Face Recognition\bin\Debug\Face Recognition.xml
+D:\Temps\project\Face Recognition Software -temp\Face Recognition\Face Recognition\bin\Debug\BouncyCastle.Cryptography.dll
+D:\Temps\project\Face Recognition Software -temp\Face Recognition\Face Recognition\bin\Debug\DPUruNet.dll
+D:\Temps\project\Face Recognition Software -temp\Face Recognition\Face Recognition\bin\Debug\Google.Protobuf.dll
+D:\Temps\project\Face Recognition Software -temp\Face Recognition\Face Recognition\bin\Debug\K4os.Compression.LZ4.dll
+D:\Temps\project\Face Recognition Software -temp\Face Recognition\Face Recognition\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Temps\project\Face Recognition Software -temp\Face Recognition\Face Recognition\bin\Debug\K4os.Hash.xxHash.dll
+D:\Temps\project\Face Recognition Software -temp\Face Recognition\Face Recognition\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Temps\project\Face Recognition Software -temp\Face Recognition\Face Recognition\bin\Debug\MySql.Data.dll
+D:\Temps\project\Face Recognition Software -temp\Face Recognition\Face Recognition\bin\Debug\System.Buffers.dll
+D:\Temps\project\Face Recognition Software -temp\Face Recognition\Face Recognition\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Temps\project\Face Recognition Software -temp\Face Recognition\Face Recognition\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Temps\project\Face Recognition Software -temp\Face Recognition\Face Recognition\bin\Debug\System.IO.Pipelines.dll
+D:\Temps\project\Face Recognition Software -temp\Face Recognition\Face Recognition\bin\Debug\System.Memory.dll
+D:\Temps\project\Face Recognition Software -temp\Face Recognition\Face Recognition\bin\Debug\System.Numerics.Vectors.dll
+D:\Temps\project\Face Recognition Software -temp\Face Recognition\Face Recognition\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Temps\project\Face Recognition Software -temp\Face Recognition\Face Recognition\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Temps\project\Face Recognition Software -temp\Face Recognition\Face Recognition\bin\Debug\ZstdSharp.dll
+D:\Temps\project\Face Recognition Software -temp\Face Recognition\Face Recognition\bin\Debug\BouncyCastle.Cryptography.xml
+D:\Temps\project\Face Recognition Software -temp\Face Recognition\Face Recognition\bin\Debug\Emgu.CV.xml
+D:\Temps\project\Face Recognition Software -temp\Face Recognition\Face Recognition\bin\Debug\Emgu.CV.UI.xml
+D:\Temps\project\Face Recognition Software -temp\Face Recognition\Face Recognition\bin\Debug\Emgu.Util.xml
+D:\Temps\project\Face Recognition Software -temp\Face Recognition\Face Recognition\bin\Debug\Google.Protobuf.pdb
+D:\Temps\project\Face Recognition Software -temp\Face Recognition\Face Recognition\bin\Debug\Google.Protobuf.xml
+D:\Temps\project\Face Recognition Software -temp\Face Recognition\Face Recognition\bin\Debug\K4os.Compression.LZ4.xml
+D:\Temps\project\Face Recognition Software -temp\Face Recognition\Face Recognition\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Temps\project\Face Recognition Software -temp\Face Recognition\Face Recognition\bin\Debug\K4os.Hash.xxHash.xml
+D:\Temps\project\Face Recognition Software -temp\Face Recognition\Face Recognition\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Temps\project\Face Recognition Software -temp\Face Recognition\Face Recognition\bin\Debug\MySql.Data.xml
+D:\Temps\project\Face Recognition Software -temp\Face Recognition\Face Recognition\bin\Debug\System.Buffers.xml
+D:\Temps\project\Face Recognition Software -temp\Face Recognition\Face Recognition\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Temps\project\Face Recognition Software -temp\Face Recognition\Face Recognition\bin\Debug\System.IO.Pipelines.xml
+D:\Temps\project\Face Recognition Software -temp\Face Recognition\Face Recognition\bin\Debug\System.Memory.xml
+D:\Temps\project\Face Recognition Software -temp\Face Recognition\Face Recognition\bin\Debug\System.Numerics.Vectors.xml
+D:\Temps\project\Face Recognition Software -temp\Face Recognition\Face Recognition\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Temps\project\Face Recognition Software -temp\Face Recognition\Face Recognition\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Temps\project\Face Recognition Software -temp\Face Recognition\Face Recognition\obj\x86\Debug\Face Recognition.vbproj.CopyComplete
+D:\Temps\project\Face Recognition Software -temp-face form added\Face Recognition\Face Recognition\bin\Debug\Face Recognition.exe.config
+D:\Temps\project\Face Recognition Software -temp-face form added\Face Recognition\Face Recognition\bin\Debug\Face Recognition.exe
+D:\Temps\project\Face Recognition Software -temp-face form added\Face Recognition\Face Recognition\bin\Debug\Face Recognition.pdb
+D:\Temps\project\Face Recognition Software -temp-face form added\Face Recognition\Face Recognition\bin\Debug\Face Recognition.xml
+D:\Temps\project\Face Recognition Software -temp-face form added\Face Recognition\Face Recognition\bin\Debug\BouncyCastle.Cryptography.dll
+D:\Temps\project\Face Recognition Software -temp-face form added\Face Recognition\Face Recognition\bin\Debug\DPUruNet.dll
+D:\Temps\project\Face Recognition Software -temp-face form added\Face Recognition\Face Recognition\bin\Debug\Google.Protobuf.dll
+D:\Temps\project\Face Recognition Software -temp-face form added\Face Recognition\Face Recognition\bin\Debug\K4os.Compression.LZ4.dll
+D:\Temps\project\Face Recognition Software -temp-face form added\Face Recognition\Face Recognition\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Temps\project\Face Recognition Software -temp-face form added\Face Recognition\Face Recognition\bin\Debug\K4os.Hash.xxHash.dll
+D:\Temps\project\Face Recognition Software -temp-face form added\Face Recognition\Face Recognition\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Temps\project\Face Recognition Software -temp-face form added\Face Recognition\Face Recognition\bin\Debug\MySql.Data.dll
+D:\Temps\project\Face Recognition Software -temp-face form added\Face Recognition\Face Recognition\bin\Debug\System.Buffers.dll
+D:\Temps\project\Face Recognition Software -temp-face form added\Face Recognition\Face Recognition\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Temps\project\Face Recognition Software -temp-face form added\Face Recognition\Face Recognition\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Temps\project\Face Recognition Software -temp-face form added\Face Recognition\Face Recognition\bin\Debug\System.IO.Pipelines.dll
+D:\Temps\project\Face Recognition Software -temp-face form added\Face Recognition\Face Recognition\bin\Debug\System.Memory.dll
+D:\Temps\project\Face Recognition Software -temp-face form added\Face Recognition\Face Recognition\bin\Debug\System.Numerics.Vectors.dll
+D:\Temps\project\Face Recognition Software -temp-face form added\Face Recognition\Face Recognition\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Temps\project\Face Recognition Software -temp-face form added\Face Recognition\Face Recognition\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Temps\project\Face Recognition Software -temp-face form added\Face Recognition\Face Recognition\bin\Debug\ZstdSharp.dll
+D:\Temps\project\Face Recognition Software -temp-face form added\Face Recognition\Face Recognition\bin\Debug\BouncyCastle.Cryptography.xml
+D:\Temps\project\Face Recognition Software -temp-face form added\Face Recognition\Face Recognition\bin\Debug\Emgu.CV.xml
+D:\Temps\project\Face Recognition Software -temp-face form added\Face Recognition\Face Recognition\bin\Debug\Emgu.CV.UI.xml
+D:\Temps\project\Face Recognition Software -temp-face form added\Face Recognition\Face Recognition\bin\Debug\Emgu.Util.xml
+D:\Temps\project\Face Recognition Software -temp-face form added\Face Recognition\Face Recognition\bin\Debug\Google.Protobuf.pdb
+D:\Temps\project\Face Recognition Software -temp-face form added\Face Recognition\Face Recognition\bin\Debug\Google.Protobuf.xml
+D:\Temps\project\Face Recognition Software -temp-face form added\Face Recognition\Face Recognition\bin\Debug\K4os.Compression.LZ4.xml
+D:\Temps\project\Face Recognition Software -temp-face form added\Face Recognition\Face Recognition\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Temps\project\Face Recognition Software -temp-face form added\Face Recognition\Face Recognition\bin\Debug\K4os.Hash.xxHash.xml
+D:\Temps\project\Face Recognition Software -temp-face form added\Face Recognition\Face Recognition\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Temps\project\Face Recognition Software -temp-face form added\Face Recognition\Face Recognition\bin\Debug\MySql.Data.xml
+D:\Temps\project\Face Recognition Software -temp-face form added\Face Recognition\Face Recognition\bin\Debug\System.Buffers.xml
+D:\Temps\project\Face Recognition Software -temp-face form added\Face Recognition\Face Recognition\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Temps\project\Face Recognition Software -temp-face form added\Face Recognition\Face Recognition\bin\Debug\System.IO.Pipelines.xml
+D:\Temps\project\Face Recognition Software -temp-face form added\Face Recognition\Face Recognition\bin\Debug\System.Memory.xml
+D:\Temps\project\Face Recognition Software -temp-face form added\Face Recognition\Face Recognition\bin\Debug\System.Numerics.Vectors.xml
+D:\Temps\project\Face Recognition Software -temp-face form added\Face Recognition\Face Recognition\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Temps\project\Face Recognition Software -temp-face form added\Face Recognition\Face Recognition\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Temps\project\Face Recognition Software -temp-face form added\Face Recognition\Face Recognition\obj\x86\Debug\Face Recognition.vbproj.AssemblyReference.cache
+D:\Temps\project\Face Recognition Software -temp-face form added\Face Recognition\Face Recognition\obj\x86\Debug\Face_Recognition.FingerBasedATM__form_main1.resources
+D:\Temps\project\Face Recognition Software -temp-face form added\Face Recognition\Face Recognition\obj\x86\Debug\Face_Recognition.FingerBasedATM_registration1.resources
+D:\Temps\project\Face Recognition Software -temp-face form added\Face Recognition\Face Recognition\obj\x86\Debug\Face_Recognition.FingerBasedATM_selectreader1.resources
+D:\Temps\project\Face Recognition Software -temp-face form added\Face Recognition\Face Recognition\obj\x86\Debug\Face_Recognition.Form1.resources
+D:\Temps\project\Face Recognition Software -temp-face form added\Face Recognition\Face Recognition\obj\x86\Debug\Face_Recognition.Resources.resources
+D:\Temps\project\Face Recognition Software -temp-face form added\Face Recognition\Face Recognition\obj\x86\Debug\Face Recognition.vbproj.GenerateResource.cache
+D:\Temps\project\Face Recognition Software -temp-face form added\Face Recognition\Face Recognition\obj\x86\Debug\Face Recognition.vbproj.CoreCompileInputs.cache
+D:\Temps\project\Face Recognition Software -temp-face form added\Face Recognition\Face Recognition\obj\x86\Debug\Face Recognition.vbproj.CopyComplete
+D:\Temps\project\Face Recognition Software -temp-face form added\Face Recognition\Face Recognition\obj\x86\Debug\Face Recognition.exe
+D:\Temps\project\Face Recognition Software -temp-face form added\Face Recognition\Face Recognition\obj\x86\Debug\Face Recognition.xml
+D:\Temps\project\Face Recognition Software -temp-face form added\Face Recognition\Face Recognition\obj\x86\Debug\Face Recognition.pdb
+D:\Temps\project\Face Recognition Software -temp-register walaadded\Face Recognition\Face Recognition\bin\Debug\Face Recognition.exe.config
+D:\Temps\project\Face Recognition Software -temp-register walaadded\Face Recognition\Face Recognition\bin\Debug\Face Recognition.exe
+D:\Temps\project\Face Recognition Software -temp-register walaadded\Face Recognition\Face Recognition\bin\Debug\Face Recognition.pdb
+D:\Temps\project\Face Recognition Software -temp-register walaadded\Face Recognition\Face Recognition\bin\Debug\Face Recognition.xml
+D:\Temps\project\Face Recognition Software -temp-register walaadded\Face Recognition\Face Recognition\bin\Debug\BouncyCastle.Cryptography.dll
+D:\Temps\project\Face Recognition Software -temp-register walaadded\Face Recognition\Face Recognition\bin\Debug\DPUruNet.dll
+D:\Temps\project\Face Recognition Software -temp-register walaadded\Face Recognition\Face Recognition\bin\Debug\Google.Protobuf.dll
+D:\Temps\project\Face Recognition Software -temp-register walaadded\Face Recognition\Face Recognition\bin\Debug\K4os.Compression.LZ4.dll
+D:\Temps\project\Face Recognition Software -temp-register walaadded\Face Recognition\Face Recognition\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Temps\project\Face Recognition Software -temp-register walaadded\Face Recognition\Face Recognition\bin\Debug\K4os.Hash.xxHash.dll
+D:\Temps\project\Face Recognition Software -temp-register walaadded\Face Recognition\Face Recognition\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Temps\project\Face Recognition Software -temp-register walaadded\Face Recognition\Face Recognition\bin\Debug\MySql.Data.dll
+D:\Temps\project\Face Recognition Software -temp-register walaadded\Face Recognition\Face Recognition\bin\Debug\System.Buffers.dll
+D:\Temps\project\Face Recognition Software -temp-register walaadded\Face Recognition\Face Recognition\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Temps\project\Face Recognition Software -temp-register walaadded\Face Recognition\Face Recognition\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Temps\project\Face Recognition Software -temp-register walaadded\Face Recognition\Face Recognition\bin\Debug\System.IO.Pipelines.dll
+D:\Temps\project\Face Recognition Software -temp-register walaadded\Face Recognition\Face Recognition\bin\Debug\System.Memory.dll
+D:\Temps\project\Face Recognition Software -temp-register walaadded\Face Recognition\Face Recognition\bin\Debug\System.Numerics.Vectors.dll
+D:\Temps\project\Face Recognition Software -temp-register walaadded\Face Recognition\Face Recognition\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Temps\project\Face Recognition Software -temp-register walaadded\Face Recognition\Face Recognition\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Temps\project\Face Recognition Software -temp-register walaadded\Face Recognition\Face Recognition\bin\Debug\ZstdSharp.dll
+D:\Temps\project\Face Recognition Software -temp-register walaadded\Face Recognition\Face Recognition\bin\Debug\BouncyCastle.Cryptography.xml
+D:\Temps\project\Face Recognition Software -temp-register walaadded\Face Recognition\Face Recognition\bin\Debug\Emgu.CV.xml
+D:\Temps\project\Face Recognition Software -temp-register walaadded\Face Recognition\Face Recognition\bin\Debug\Emgu.CV.UI.xml
+D:\Temps\project\Face Recognition Software -temp-register walaadded\Face Recognition\Face Recognition\bin\Debug\Emgu.Util.xml
+D:\Temps\project\Face Recognition Software -temp-register walaadded\Face Recognition\Face Recognition\bin\Debug\Google.Protobuf.pdb
+D:\Temps\project\Face Recognition Software -temp-register walaadded\Face Recognition\Face Recognition\bin\Debug\Google.Protobuf.xml
+D:\Temps\project\Face Recognition Software -temp-register walaadded\Face Recognition\Face Recognition\bin\Debug\K4os.Compression.LZ4.xml
+D:\Temps\project\Face Recognition Software -temp-register walaadded\Face Recognition\Face Recognition\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Temps\project\Face Recognition Software -temp-register walaadded\Face Recognition\Face Recognition\bin\Debug\K4os.Hash.xxHash.xml
+D:\Temps\project\Face Recognition Software -temp-register walaadded\Face Recognition\Face Recognition\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Temps\project\Face Recognition Software -temp-register walaadded\Face Recognition\Face Recognition\bin\Debug\MySql.Data.xml
+D:\Temps\project\Face Recognition Software -temp-register walaadded\Face Recognition\Face Recognition\bin\Debug\System.Buffers.xml
+D:\Temps\project\Face Recognition Software -temp-register walaadded\Face Recognition\Face Recognition\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Temps\project\Face Recognition Software -temp-register walaadded\Face Recognition\Face Recognition\bin\Debug\System.IO.Pipelines.xml
+D:\Temps\project\Face Recognition Software -temp-register walaadded\Face Recognition\Face Recognition\bin\Debug\System.Memory.xml
+D:\Temps\project\Face Recognition Software -temp-register walaadded\Face Recognition\Face Recognition\bin\Debug\System.Numerics.Vectors.xml
+D:\Temps\project\Face Recognition Software -temp-register walaadded\Face Recognition\Face Recognition\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Temps\project\Face Recognition Software -temp-register walaadded\Face Recognition\Face Recognition\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Temps\project\Face Recognition Software -temp-register walaadded\Face Recognition\Face Recognition\obj\x86\Debug\Face Recognition.vbproj.AssemblyReference.cache
+D:\Temps\project\Face Recognition Software -temp-register walaadded\Face Recognition\Face Recognition\obj\x86\Debug\Face_Recognition.FingerBasedATM__form_main1.resources
+D:\Temps\project\Face Recognition Software -temp-register walaadded\Face Recognition\Face Recognition\obj\x86\Debug\Face_Recognition.FingerBasedATM_registration1.resources
+D:\Temps\project\Face Recognition Software -temp-register walaadded\Face Recognition\Face Recognition\obj\x86\Debug\Face_Recognition.FingerBasedATM_selectreader1.resources
+D:\Temps\project\Face Recognition Software -temp-register walaadded\Face Recognition\Face Recognition\obj\x86\Debug\Face_Recognition.Form1.resources
+D:\Temps\project\Face Recognition Software -temp-register walaadded\Face Recognition\Face Recognition\obj\x86\Debug\Face_Recognition.Resources.resources
+D:\Temps\project\Face Recognition Software -temp-register walaadded\Face Recognition\Face Recognition\obj\x86\Debug\Face Recognition.vbproj.GenerateResource.cache
+D:\Temps\project\Face Recognition Software -temp-register walaadded\Face Recognition\Face Recognition\obj\x86\Debug\Face Recognition.vbproj.CoreCompileInputs.cache
+D:\Temps\project\Face Recognition Software -temp-register walaadded\Face Recognition\Face Recognition\obj\x86\Debug\Face Recognition.vbproj.CopyComplete
+D:\Temps\project\Face Recognition Software -temp-register walaadded\Face Recognition\Face Recognition\obj\x86\Debug\Face Recognition.exe
+D:\Temps\project\Face Recognition Software -temp-register walaadded\Face Recognition\Face Recognition\obj\x86\Debug\Face Recognition.xml
+D:\Temps\project\Face Recognition Software -temp-register walaadded\Face Recognition\Face Recognition\obj\x86\Debug\Face Recognition.pdb
