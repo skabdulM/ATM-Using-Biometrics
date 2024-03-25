@@ -32,7 +32,7 @@ Namespace My
         
         <Global.System.Diagnostics.DebuggerStepThroughAttribute()>  _
         Protected Overrides Sub OnCreateMainForm()
-            Me.MainForm = Global.Face_Recognition.FingerBasedATM__form_main1
+            Me.MainForm = Global.RegistrationSystem.FingerBasedATM__form_main1
         End Sub
         
         <Global.System.Diagnostics.DebuggerStepThroughAttribute()>  _

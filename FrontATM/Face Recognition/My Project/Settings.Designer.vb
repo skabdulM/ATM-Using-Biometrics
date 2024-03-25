@@ -64,9 +64,9 @@ Namespace My
     Friend Module MySettingsProperty
         
         <Global.System.ComponentModel.Design.HelpKeywordAttribute("My.Settings")>  _
-        Friend ReadOnly Property Settings() As Global.Face_Recognition.My.MySettings
+        Friend ReadOnly Property Settings() As Global.FrontATM.My.MySettings
             Get
-                Return Global.Face_Recognition.My.MySettings.Default
+                Return Global.FrontATM.My.MySettings.Default
             End Get
         End Property
     End Module

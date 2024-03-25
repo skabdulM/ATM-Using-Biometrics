@@ -8,11 +8,11 @@ Imports System.Runtime.InteropServices
 
 ' Review the values of the assembly attributes
 
-<Assembly: AssemblyTitle("Face Recognition")> 
-<Assembly: AssemblyDescription("")> 
-<Assembly: AssemblyCompany("Hewlett-Packard")> 
-<Assembly: AssemblyProduct("Face Recognition")> 
-<Assembly: AssemblyCopyright("Copyright © Hewlett-Packard 2017")> 
+<Assembly: AssemblyTitle("FrontATM")>
+<Assembly: AssemblyDescription("")>
+<Assembly: AssemblyCompany("Mannan")>
+<Assembly: AssemblyProduct("FrontATM")>
+<Assembly: AssemblyCopyright("Copyright © Mannan 2024")>
 <Assembly: AssemblyTrademark("")> 
 
 <Assembly: ComVisible(False)>
